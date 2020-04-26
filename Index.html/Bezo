@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta charset="utf-8">
+<title> Baz#1</title>
+</head>
+<body>
+	<button>
+	<a href="http://eduact.me" width="100px" target="_blank">
+		<p>Home</p>
+	</a> </button>
+<div><center>
+		<h1> Yes It`s Me </h1>
+		<a href="http://eduact.me" target="_blank">
+		<img src="write.jpg"
+		width="500px" 
+		alt="Handwritting and painting"/></a>
+		<h3>Supposed to be a Background </h3>
+		<audiosrc="03 Kan Taeyb.mp3" controls hidden alt="03 Kan Taeyb">
+	 </audio>
+</center></div>
+<center><iframe src="http://eduact.me" height="400px%"
+	width="600px%">
+</iframe></center>
+<section>
+	<video src="LA-Agial Version.mp4" autoplay hidden controls width="350px"></video>
+</section>
+<footer><center>
+	<small>&copy;Created by </small>
+	<a href="http://eduact.me" target="_blank">EDUACT </a><i class="fas fa-graduation-cap fa-2x"> </i></center>
+</footer>
+	</body>
+</html>
